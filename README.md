@@ -16,3 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # preview
+
+![connectivityCheck](https://user-images.githubusercontent.com/74811459/157470783-8abbba4d-15eb-4881-9d73-4cd9d4aec9f2.gif)
